@@ -4,7 +4,7 @@
 - Ishwor Karki (PAS079BGE015)
 - Rajesh Poudel (PAS079BGE028)
 - Shishir Sharma (PAS079BGE041)
-- Samir Regmi (PAS079BGE047)
+- Vivek Regmi(Samir) (PAS079BGE047)
 
 ## Study Area
 Narayani River Basin, Nepal
